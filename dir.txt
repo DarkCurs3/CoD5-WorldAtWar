@@ -1,16 +1,8 @@
-# CoD5-WorldAtWar
-SteamRipped | Clean ? 
-
 <p class="blockquote">
 '''
 PS E:\games\Cod;WaW5> dir
-
-
     Directory: E:\games\Cod;WaW5
-
-
 Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
 -a----        2023-06-04   8:26 PM     5944028273 CallofDutyWorldAtWar.zip
 -a----        2023-06-04   8:29 PM       26214400 CallofDutyWorldAtWar_zip.part001.exe
 -a----        2023-06-04   8:29 PM       26214400 CallofDutyWorldAtWar_zip.part002.rar
